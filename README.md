@@ -10,4 +10,7 @@ Dev Logs for Scratch "Arch Linux CLI"
  - b: Bugfixing
 
 0.0.3: Added the ADDUSER user command to create new users, fixed a few bugfixes
+
 0.0.4: Fixed ADDUSER user command to work
+
+0.0.5: Bugfixes, removed a Jailbreak on ADDUSER
