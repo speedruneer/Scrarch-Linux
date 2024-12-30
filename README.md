@@ -16,3 +16,5 @@ Dev Logs for Scratch "Arch Linux CLI"
 0.0.5: Bugfixes, removed a Jailbreak on ADDUSER
 
 0.0.6: Fixed Pressing keys before program started
+
+0.0.7: Added User Passwords again, Major security Update, fixed 2 Jailbreaks to log in Dev-Trusted forcefully, fixed keyboard, fixed booting screen to be proper timings and be much shorter
