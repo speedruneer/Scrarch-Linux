@@ -14,3 +14,5 @@ Dev Logs for Scratch "Arch Linux CLI"
 0.0.4: Fixed ADDUSER user command to work
 
 0.0.5: Bugfixes, removed a Jailbreak on ADDUSER
+
+0.0.6: Fixed Pressing keys before program started
